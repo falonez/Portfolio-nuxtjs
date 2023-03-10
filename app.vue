@@ -1,15 +1,15 @@
 <script setup lang="ts">
-const title = 'Nuxt + GITS UI Minimal Starter';
+const title = "Fathan Mubarok";
 
 useHead({
   title,
   htmlAttrs: {
-    lang: 'en',
+    lang: "en",
   },
   meta: [
     {
-      name: 'description',
-      key: 'description',
+      name: "description",
+      key: "description",
       content: title,
     },
   ],

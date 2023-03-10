@@ -1,3 +1,1 @@
-<template>
-  <Welcome />
-</template>
+<template><Hero /><Stack /><Experience /><Project /></template>
