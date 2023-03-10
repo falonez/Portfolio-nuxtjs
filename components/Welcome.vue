@@ -7,25 +7,13 @@
         <div class="space-y-3 text-center">
           <h1 class="font-bold text-5xl space-x-3">
             <span
-              class="
-                bg-gradient-to-r
-                from-green-500
-                to-cyan-500
-                bg-clip-text
-                text-transparent
-              "
+              class="bg-gradient-to-r from-green-500 to-cyan-500 bg-clip-text text-transparent"
             >
               Nuxt.js
             </span>
             <span class="font-thin text-gray-700">+</span>
             <span
-              class="
-                bg-gradient-to-r
-                from-primary-500
-                to-indigo-500
-                bg-clip-text
-                text-transparent
-              "
+              class="bg-gradient-to-r from-primary-500 to-indigo-500 bg-clip-text text-transparent"
             >
               GITS UI
             </span>
