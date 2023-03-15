@@ -8,7 +8,7 @@
     <i class="devicon-react-original colored"> React</i>
   </div> -->
   <div class="slider m-auto overflow-hidden relative shadow-lg">
-    <div class="slide-track bg-slate-600 p-2 md:p-6">
+    <div class="slide-track bg-slate-100 dark:bg-slate-600 p-2 md:p-6">
       <div class="w-[150px] md:w-[250px]">
         <i class="devicon-typescript-plain colored text-xl md:text-3xl">
           TypeScript</i

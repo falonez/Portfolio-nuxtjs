@@ -1,6 +1,6 @@
 <template>
-  <div class="px-[10%] pt-[10%]">
-    <h1 class="text-white text-2xl">Experience</h1>
+  <div class="px-[10%] pt-[10%] bg-slate-300 dark:bg-darkbg">
+    <h1 class="text-black dark:text-white text-2xl">Experience</h1>
     <div
       data-aos="fade-zoom-in"
       data-aos-easing="ease-in-back"
@@ -10,14 +10,16 @@
       <div class="flex flex-col md:flex-row gap-2 items-center">
         <div class="w-full md:w-1/2 h-auto md:h-full">
           <ul
-            class="p-5 bg-slate-500 mt-4 relative flex flex-col-reverse text-slate-300 rounded-lg"
+            class="p-5 bg-blue-500 dark:bg-slate-500 mt-4 relative flex flex-col-reverse text-slate-300 rounded-lg"
           >
             <li class="flex flex-row items-center group relative">
               <div
-                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
+                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-900 dark:group-hover:bg-teal-900 dark:group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
               ></div>
 
-              <a href="/" class="group-hover:text-teal-300"
+              <a
+                href="/"
+                class="group-hover:text-teal-900 dark:group-hover:text-teal-300"
                 >Praktek Kerja Lapangan</a
               >
               <div
@@ -35,9 +37,11 @@
             </li>
             <li class="flex flex-row items-center group relative">
               <div
-                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
+                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-900 dark:group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
               ></div>
-              <a href="/" class="group-hover:text-teal-300"
+              <a
+                href="/"
+                class="group-hover:text-teal-900 dark:group-hover:text-teal-300"
                 >Chairman of the MPK Organization</a
               >
               <div
@@ -54,9 +58,11 @@
             </li>
             <li class="flex flex-row items-center group relative">
               <div
-                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
+                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-900 dark:group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
               ></div>
-              <a href="/" class="group-hover:text-teal-300"
+              <a
+                href="/"
+                class="group-hover:text-teal-900 dark:group-hover:text-teal-300"
                 >Full-Stack Web Development Student</a
               >
               <div
@@ -73,9 +79,11 @@
             </li>
             <li class="flex flex-row items-center group relative">
               <div
-                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
+                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-900 dark:group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
               ></div>
-              <a href="/" class="group-hover:text-teal-300"
+              <a
+                href="/"
+                class="group-hover:text-teal-900 dark:group-hover:text-teal-300"
                 >Frontend Developer</a
               >
               <div
@@ -93,9 +101,11 @@
             </li>
             <li class="flex flex-row items-center group md:relative">
               <div
-                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
+                class="w-2 h-2 bg-slate-200 mr-2 group-hover:bg-teal-900 dark:group-hover:bg-teal-400 group-hover:animate-spin invisible group-hover:visible"
               ></div>
-              <a href="/" class="group-hover:text-teal-300"
+              <a
+                href="/"
+                class="group-hover:text-teal-900 dark:group-hover:text-teal-300"
                 >Software Engineer</a
               >
               <div

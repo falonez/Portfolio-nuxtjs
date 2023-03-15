@@ -1,10 +1,11 @@
 <template>
   <div
-    class="px-[10%] flex flex-col justify-center h-screen items-start text-white"
+    class="px-[10%] flex flex-col justify-center h-screen items-start bg-slate-300 text-black dark:bg-darkbg dark:text-white"
   >
     <div data-aos="fade-left" data-aos-duration="4000">
       <h1 class="text-xl md:text-[2rem]">
-        Hi, I'm <span class="text-teal-200">Fathan Mubarok</span>
+        Hi, I'm
+        <span class="text-blue-500 dark:text-teal-200">Fathan Mubarok</span>
       </h1>
       <h2 class="md:text-2xl py-4">Frontend and Web Development</h2>
       <p
@@ -19,7 +20,7 @@
         I work with.
       </p>
       <button
-        class="bg-slate-500 text-[0.9rem] md:text-[0.9rem] py-2 px-4 md:py-4 md:px-6 rounded-2xl my-4 hover:bg-slate-100"
+        class="bg-slate-500 text-[0.9rem] md:text-[0.9rem] py-2 px-4 md:py-4 md:px-10 rounded-2xl my-4 hover:bg-slate-100"
       >
         Lets Talk
       </button>
