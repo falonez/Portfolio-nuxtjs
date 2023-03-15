@@ -20,7 +20,7 @@
         I work with.
       </p>
       <button
-        class="bg-slate-500 text-[0.9rem] md:text-[0.9rem] py-2 px-4 md:py-4 md:px-10 rounded-2xl my-4 hover:bg-slate-100"
+        class="bg-slate-500 text-[0.9rem] md:text-[0.9rem] py-2 px-4 md:py-4 md:px-10 rounded-2xl my-4 text-white hover:bg-slate-100"
       >
         Lets Talk
       </button>
