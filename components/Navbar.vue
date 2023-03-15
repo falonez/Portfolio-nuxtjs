@@ -9,7 +9,7 @@
     >
     <label
       for="checkbullet"
-      class="bg-blue-800 w-20 h-8 rounded-3xl items-center flex relative"
+      class="bg-blue-800 w-20 h-8 rounded-3xl items-center flex relative opacity-0 md:opacity-100"
     >
       <input
         class="opacity-0"
